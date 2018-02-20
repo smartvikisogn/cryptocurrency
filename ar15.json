@@ -1,1 +1,4793 @@
-[{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016070100","access":"all-access","agent":"user","views":59},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016070200","access":"all-access","agent":"user","views":45},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016070300","access":"all-access","agent":"user","views":55},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016070400","access":"all-access","agent":"user","views":47},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016070500","access":"all-access","agent":"user","views":49},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016070600","access":"all-access","agent":"user","views":38},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016070700","access":"all-access","agent":"user","views":31},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016070800","access":"all-access","agent":"user","views":68},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016070900","access":"all-access","agent":"user","views":64},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016071000","access":"all-access","agent":"user","views":58},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016071100","access":"all-access","agent":"user","views":52},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016071200","access":"all-access","agent":"user","views":37},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016071300","access":"all-access","agent":"user","views":47},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016071400","access":"all-access","agent":"user","views":37},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016071500","access":"all-access","agent":"user","views":47},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016071600","access":"all-access","agent":"user","views":35},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016071700","access":"all-access","agent":"user","views":44},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016071800","access":"all-access","agent":"user","views":43},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016071900","access":"all-access","agent":"user","views":41},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016072000","access":"all-access","agent":"user","views":45},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016072100","access":"all-access","agent":"user","views":36},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016072200","access":"all-access","agent":"user","views":39},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016072300","access":"all-access","agent":"user","views":34},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016072400","access":"all-access","agent":"user","views":52},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016072500","access":"all-access","agent":"user","views":42},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016072600","access":"all-access","agent":"user","views":45},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016072700","access":"all-access","agent":"user","views":39},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016072800","access":"all-access","agent":"user","views":35},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016072900","access":"all-access","agent":"user","views":37},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016073000","access":"all-access","agent":"user","views":26},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016073100","access":"all-access","agent":"user","views":27},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016080100","access":"all-access","agent":"user","views":43},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016080200","access":"all-access","agent":"user","views":44},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016080300","access":"all-access","agent":"user","views":30},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016080400","access":"all-access","agent":"user","views":31},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016080500","access":"all-access","agent":"user","views":26},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016080600","access":"all-access","agent":"user","views":30},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016080700","access":"all-access","agent":"user","views":32},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016080800","access":"all-access","agent":"user","views":25},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016080900","access":"all-access","agent":"user","views":29},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016081000","access":"all-access","agent":"user","views":27},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016081100","access":"all-access","agent":"user","views":24},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016081200","access":"all-access","agent":"user","views":31},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016081300","access":"all-access","agent":"user","views":28},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016081400","access":"all-access","agent":"user","views":22},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016081500","access":"all-access","agent":"user","views":31},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016081600","access":"all-access","agent":"user","views":31},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016081700","access":"all-access","agent":"user","views":30},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016081800","access":"all-access","agent":"user","views":25},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016081900","access":"all-access","agent":"user","views":231},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016082000","access":"all-access","agent":"user","views":1182},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016082100","access":"all-access","agent":"user","views":1150},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016082200","access":"all-access","agent":"user","views":1149},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016082300","access":"all-access","agent":"user","views":1144},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016082400","access":"all-access","agent":"user","views":1043},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016082500","access":"all-access","agent":"user","views":1069},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016082600","access":"all-access","agent":"user","views":892},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016082700","access":"all-access","agent":"user","views":903},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016082800","access":"all-access","agent":"user","views":1057},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016082900","access":"all-access","agent":"user","views":886},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016083000","access":"all-access","agent":"user","views":820},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016083100","access":"all-access","agent":"user","views":866},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016090100","access":"all-access","agent":"user","views":917},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016090200","access":"all-access","agent":"user","views":977},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016090300","access":"all-access","agent":"user","views":955},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016090400","access":"all-access","agent":"user","views":1029},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016090500","access":"all-access","agent":"user","views":1583},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016090600","access":"all-access","agent":"user","views":1102},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016090700","access":"all-access","agent":"user","views":1018},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016090800","access":"all-access","agent":"user","views":1148},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016090900","access":"all-access","agent":"user","views":1012},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016091000","access":"all-access","agent":"user","views":1018},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016091100","access":"all-access","agent":"user","views":1061},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016091200","access":"all-access","agent":"user","views":954},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016091300","access":"all-access","agent":"user","views":924},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016091400","access":"all-access","agent":"user","views":953},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016091500","access":"all-access","agent":"user","views":865},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016091600","access":"all-access","agent":"user","views":941},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016091700","access":"all-access","agent":"user","views":972},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016091800","access":"all-access","agent":"user","views":1172},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016091900","access":"all-access","agent":"user","views":1039},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016092000","access":"all-access","agent":"user","views":1008},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016092100","access":"all-access","agent":"user","views":1020},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016092200","access":"all-access","agent":"user","views":1056},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016092300","access":"all-access","agent":"user","views":991},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016092400","access":"all-access","agent":"user","views":1187},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016092500","access":"all-access","agent":"user","views":1254},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016092600","access":"all-access","agent":"user","views":1147},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016092700","access":"all-access","agent":"user","views":1074},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016092800","access":"all-access","agent":"user","views":1007},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016092900","access":"all-access","agent":"user","views":1099},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016093000","access":"all-access","agent":"user","views":1033},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016100100","access":"all-access","agent":"user","views":964},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016100200","access":"all-access","agent":"user","views":979},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016100300","access":"all-access","agent":"user","views":1031},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016100400","access":"all-access","agent":"user","views":1037},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016100500","access":"all-access","agent":"user","views":918},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016100600","access":"all-access","agent":"user","views":1165},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016100700","access":"all-access","agent":"user","views":1031},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016100800","access":"all-access","agent":"user","views":1033},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016100900","access":"all-access","agent":"user","views":1053},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016101000","access":"all-access","agent":"user","views":959},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016101100","access":"all-access","agent":"user","views":1027},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016101200","access":"all-access","agent":"user","views":1187},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016101300","access":"all-access","agent":"user","views":1306},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016101400","access":"all-access","agent":"user","views":1175},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016101500","access":"all-access","agent":"user","views":1287},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016101600","access":"all-access","agent":"user","views":1241},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016101700","access":"all-access","agent":"user","views":1292},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016101800","access":"all-access","agent":"user","views":1263},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016101900","access":"all-access","agent":"user","views":1194},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016102000","access":"all-access","agent":"user","views":1237},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016102100","access":"all-access","agent":"user","views":1154},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016102200","access":"all-access","agent":"user","views":1072},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016102300","access":"all-access","agent":"user","views":1203},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016102400","access":"all-access","agent":"user","views":1337},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016102500","access":"all-access","agent":"user","views":1226},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016102600","access":"all-access","agent":"user","views":1121},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016102700","access":"all-access","agent":"user","views":1168},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016102800","access":"all-access","agent":"user","views":1085},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016102900","access":"all-access","agent":"user","views":1033},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016103000","access":"all-access","agent":"user","views":1072},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016103100","access":"all-access","agent":"user","views":1109},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016110100","access":"all-access","agent":"user","views":1134},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016110200","access":"all-access","agent":"user","views":1186},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016110300","access":"all-access","agent":"user","views":1119},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016110400","access":"all-access","agent":"user","views":1111},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016110500","access":"all-access","agent":"user","views":1325},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016110600","access":"all-access","agent":"user","views":1320},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016110700","access":"all-access","agent":"user","views":1277},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016110800","access":"all-access","agent":"user","views":1325},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016110900","access":"all-access","agent":"user","views":1150},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016111000","access":"all-access","agent":"user","views":1182},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016111100","access":"all-access","agent":"user","views":1226},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016111200","access":"all-access","agent":"user","views":1303},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016111300","access":"all-access","agent":"user","views":1304},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016111400","access":"all-access","agent":"user","views":1250},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016111500","access":"all-access","agent":"user","views":1196},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016111600","access":"all-access","agent":"user","views":1286},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016111700","access":"all-access","agent":"user","views":1197},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016111800","access":"all-access","agent":"user","views":1181},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016111900","access":"all-access","agent":"user","views":1223},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016112000","access":"all-access","agent":"user","views":1232},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016112100","access":"all-access","agent":"user","views":1401},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016112200","access":"all-access","agent":"user","views":1308},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016112300","access":"all-access","agent":"user","views":1218},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016112400","access":"all-access","agent":"user","views":1200},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016112500","access":"all-access","agent":"user","views":1304},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016112600","access":"all-access","agent":"user","views":1330},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016112700","access":"all-access","agent":"user","views":1279},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016112800","access":"all-access","agent":"user","views":1397},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016112900","access":"all-access","agent":"user","views":1397},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016113000","access":"all-access","agent":"user","views":1166},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016120100","access":"all-access","agent":"user","views":1162},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016120200","access":"all-access","agent":"user","views":1036},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016120300","access":"all-access","agent":"user","views":1027},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016120400","access":"all-access","agent":"user","views":1182},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016120500","access":"all-access","agent":"user","views":1207},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016120600","access":"all-access","agent":"user","views":1313},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016120700","access":"all-access","agent":"user","views":1084},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016120800","access":"all-access","agent":"user","views":1088},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016120900","access":"all-access","agent":"user","views":1113},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016121000","access":"all-access","agent":"user","views":1173},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016121100","access":"all-access","agent":"user","views":1214},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016121200","access":"all-access","agent":"user","views":1497},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016121300","access":"all-access","agent":"user","views":1376},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016121400","access":"all-access","agent":"user","views":1273},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016121500","access":"all-access","agent":"user","views":1076},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016121600","access":"all-access","agent":"user","views":1061},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016121700","access":"all-access","agent":"user","views":1042},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016121800","access":"all-access","agent":"user","views":1058},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016121900","access":"all-access","agent":"user","views":1191},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016122000","access":"all-access","agent":"user","views":1173},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016122100","access":"all-access","agent":"user","views":1169},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016122200","access":"all-access","agent":"user","views":1257},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016122300","access":"all-access","agent":"user","views":1104},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016122400","access":"all-access","agent":"user","views":1011},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016122500","access":"all-access","agent":"user","views":1153},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016122600","access":"all-access","agent":"user","views":1091},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016122700","access":"all-access","agent":"user","views":1218},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016122800","access":"all-access","agent":"user","views":1116},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016122900","access":"all-access","agent":"user","views":1140},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016123000","access":"all-access","agent":"user","views":1180},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2016123100","access":"all-access","agent":"user","views":996},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017010100","access":"all-access","agent":"user","views":1072},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017010200","access":"all-access","agent":"user","views":1268},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017010300","access":"all-access","agent":"user","views":1210},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017010400","access":"all-access","agent":"user","views":1336},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017010500","access":"all-access","agent":"user","views":1177},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017010600","access":"all-access","agent":"user","views":1182},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017010700","access":"all-access","agent":"user","views":1180},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017010800","access":"all-access","agent":"user","views":1334},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017010900","access":"all-access","agent":"user","views":1163},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017011000","access":"all-access","agent":"user","views":1200},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017011100","access":"all-access","agent":"user","views":1501},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017011200","access":"all-access","agent":"user","views":1101},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017011300","access":"all-access","agent":"user","views":1090},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017011400","access":"all-access","agent":"user","views":1109},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017011500","access":"all-access","agent":"user","views":1186},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017011600","access":"all-access","agent":"user","views":1209},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017011700","access":"all-access","agent":"user","views":1210},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017011800","access":"all-access","agent":"user","views":1183},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017011900","access":"all-access","agent":"user","views":1128},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017012000","access":"all-access","agent":"user","views":1176},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017012100","access":"all-access","agent":"user","views":1199},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017012200","access":"all-access","agent":"user","views":1228},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017012300","access":"all-access","agent":"user","views":1115},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017012400","access":"all-access","agent":"user","views":1173},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017012500","access":"all-access","agent":"user","views":1031},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017012600","access":"all-access","agent":"user","views":1133},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017012700","access":"all-access","agent":"user","views":1056},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017012800","access":"all-access","agent":"user","views":1167},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017012900","access":"all-access","agent":"user","views":1191},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017013000","access":"all-access","agent":"user","views":1251},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017013100","access":"all-access","agent":"user","views":1031},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017020100","access":"all-access","agent":"user","views":1052},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017020200","access":"all-access","agent":"user","views":1114},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017020300","access":"all-access","agent":"user","views":1243},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017020400","access":"all-access","agent":"user","views":1121},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017020500","access":"all-access","agent":"user","views":1213},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017020600","access":"all-access","agent":"user","views":1047},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017020700","access":"all-access","agent":"user","views":1187},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017020800","access":"all-access","agent":"user","views":1122},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017020900","access":"all-access","agent":"user","views":1163},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017021000","access":"all-access","agent":"user","views":1186},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017021100","access":"all-access","agent":"user","views":1297},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017021200","access":"all-access","agent":"user","views":1468},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017021300","access":"all-access","agent":"user","views":1351},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017021400","access":"all-access","agent":"user","views":1178},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017021500","access":"all-access","agent":"user","views":1169},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017021600","access":"all-access","agent":"user","views":1306},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017021700","access":"all-access","agent":"user","views":1293},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017021800","access":"all-access","agent":"user","views":1193},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017021900","access":"all-access","agent":"user","views":1369},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017022000","access":"all-access","agent":"user","views":1257},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017022100","access":"all-access","agent":"user","views":1231},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017022200","access":"all-access","agent":"user","views":1725},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017022300","access":"all-access","agent":"user","views":1648},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017022400","access":"all-access","agent":"user","views":1336},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017022500","access":"all-access","agent":"user","views":1310},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017022600","access":"all-access","agent":"user","views":1468},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017022700","access":"all-access","agent":"user","views":1243},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017022800","access":"all-access","agent":"user","views":1237},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017030100","access":"all-access","agent":"user","views":1439},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017030200","access":"all-access","agent":"user","views":1108},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017030300","access":"all-access","agent":"user","views":998},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017030400","access":"all-access","agent":"user","views":1124},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017030500","access":"all-access","agent":"user","views":1276},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017030600","access":"all-access","agent":"user","views":1262},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017030700","access":"all-access","agent":"user","views":1095},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017030800","access":"all-access","agent":"user","views":979},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017030900","access":"all-access","agent":"user","views":992},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017031000","access":"all-access","agent":"user","views":1024},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017031100","access":"all-access","agent":"user","views":960},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017031200","access":"all-access","agent":"user","views":1137},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017031300","access":"all-access","agent":"user","views":1085},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017031400","access":"all-access","agent":"user","views":973},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017031500","access":"all-access","agent":"user","views":1010},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017031600","access":"all-access","agent":"user","views":999},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017031700","access":"all-access","agent":"user","views":979},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017031800","access":"all-access","agent":"user","views":961},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017031900","access":"all-access","agent":"user","views":1125},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017032000","access":"all-access","agent":"user","views":1083},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017032100","access":"all-access","agent":"user","views":1016},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017032200","access":"all-access","agent":"user","views":1044},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017032300","access":"all-access","agent":"user","views":1072},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017032400","access":"all-access","agent":"user","views":1029},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017032500","access":"all-access","agent":"user","views":1111},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017032600","access":"all-access","agent":"user","views":1213},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017032700","access":"all-access","agent":"user","views":1134},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017032800","access":"all-access","agent":"user","views":3804},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017032900","access":"all-access","agent":"user","views":2961},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017033000","access":"all-access","agent":"user","views":2555},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017033100","access":"all-access","agent":"user","views":1839},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017040100","access":"all-access","agent":"user","views":1563},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017040200","access":"all-access","agent":"user","views":1705},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017040300","access":"all-access","agent":"user","views":1516},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017040400","access":"all-access","agent":"user","views":1575},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017040500","access":"all-access","agent":"user","views":1779},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017040600","access":"all-access","agent":"user","views":1369},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017040700","access":"all-access","agent":"user","views":1140},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017040800","access":"all-access","agent":"user","views":1046},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017040900","access":"all-access","agent":"user","views":1153},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017041000","access":"all-access","agent":"user","views":1159},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017041100","access":"all-access","agent":"user","views":1050},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017041200","access":"all-access","agent":"user","views":1099},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017041300","access":"all-access","agent":"user","views":1039},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017041400","access":"all-access","agent":"user","views":989},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017041500","access":"all-access","agent":"user","views":1028},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017041600","access":"all-access","agent":"user","views":1073},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017041700","access":"all-access","agent":"user","views":1098},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017041800","access":"all-access","agent":"user","views":1046},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017041900","access":"all-access","agent":"user","views":1152},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017042000","access":"all-access","agent":"user","views":1095},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017042100","access":"all-access","agent":"user","views":1130},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017042200","access":"all-access","agent":"user","views":1208},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017042300","access":"all-access","agent":"user","views":1020},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017042400","access":"all-access","agent":"user","views":957},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017042500","access":"all-access","agent":"user","views":908},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017042600","access":"all-access","agent":"user","views":943},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017042700","access":"all-access","agent":"user","views":857},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017042800","access":"all-access","agent":"user","views":933},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017042900","access":"all-access","agent":"user","views":934},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017043000","access":"all-access","agent":"user","views":991},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017050100","access":"all-access","agent":"user","views":934},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017050200","access":"all-access","agent":"user","views":864},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017050300","access":"all-access","agent":"user","views":844},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017050400","access":"all-access","agent":"user","views":933},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017050500","access":"all-access","agent":"user","views":656},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017050600","access":"all-access","agent":"user","views":682},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017050700","access":"all-access","agent":"user","views":712},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017050800","access":"all-access","agent":"user","views":840},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017050900","access":"all-access","agent":"user","views":856},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017051000","access":"all-access","agent":"user","views":794},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017051100","access":"all-access","agent":"user","views":761},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017051200","access":"all-access","agent":"user","views":720},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017051300","access":"all-access","agent":"user","views":756},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017051400","access":"all-access","agent":"user","views":787},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017051500","access":"all-access","agent":"user","views":816},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017051600","access":"all-access","agent":"user","views":719},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017051700","access":"all-access","agent":"user","views":711},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017051800","access":"all-access","agent":"user","views":723},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017051900","access":"all-access","agent":"user","views":1082},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017052000","access":"all-access","agent":"user","views":858},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017052100","access":"all-access","agent":"user","views":935},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017052200","access":"all-access","agent":"user","views":889},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017052300","access":"all-access","agent":"user","views":927},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017052400","access":"all-access","agent":"user","views":906},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017052500","access":"all-access","agent":"user","views":905},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017052600","access":"all-access","agent":"user","views":820},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017052700","access":"all-access","agent":"user","views":876},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017052800","access":"all-access","agent":"user","views":900},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017052900","access":"all-access","agent":"user","views":1142},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017053000","access":"all-access","agent":"user","views":1121},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017053100","access":"all-access","agent":"user","views":1535},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017060100","access":"all-access","agent":"user","views":1738},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017060200","access":"all-access","agent":"user","views":1612},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017060300","access":"all-access","agent":"user","views":1664},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017060400","access":"all-access","agent":"user","views":1990},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017060500","access":"all-access","agent":"user","views":1913},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017060600","access":"all-access","agent":"user","views":1706},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017060700","access":"all-access","agent":"user","views":1848},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017060800","access":"all-access","agent":"user","views":1835},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017060900","access":"all-access","agent":"user","views":1690},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017061000","access":"all-access","agent":"user","views":1592},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017061100","access":"all-access","agent":"user","views":1770},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017061200","access":"all-access","agent":"user","views":1718},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017061300","access":"all-access","agent":"user","views":1655},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017061400","access":"all-access","agent":"user","views":4050},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017061500","access":"all-access","agent":"user","views":3100},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017061600","access":"all-access","agent":"user","views":2635},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017061700","access":"all-access","agent":"user","views":1898},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017061800","access":"all-access","agent":"user","views":2050},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017061900","access":"all-access","agent":"user","views":2032},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017062000","access":"all-access","agent":"user","views":1804},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017062100","access":"all-access","agent":"user","views":1754},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017062200","access":"all-access","agent":"user","views":1915},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017062300","access":"all-access","agent":"user","views":1883},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017062400","access":"all-access","agent":"user","views":1899},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017062500","access":"all-access","agent":"user","views":1934},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017062600","access":"all-access","agent":"user","views":1839},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017062700","access":"all-access","agent":"user","views":1737},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017062800","access":"all-access","agent":"user","views":1774},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017062900","access":"all-access","agent":"user","views":1761},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017063000","access":"all-access","agent":"user","views":2561},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017070100","access":"all-access","agent":"user","views":4294},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017070200","access":"all-access","agent":"user","views":2666},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017070300","access":"all-access","agent":"user","views":2236},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017070400","access":"all-access","agent":"user","views":2125},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017070500","access":"all-access","agent":"user","views":2034},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017070600","access":"all-access","agent":"user","views":2016},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017070700","access":"all-access","agent":"user","views":1981},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017070800","access":"all-access","agent":"user","views":1847},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017070900","access":"all-access","agent":"user","views":2025},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017071000","access":"all-access","agent":"user","views":2054},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017071100","access":"all-access","agent":"user","views":2172},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017071200","access":"all-access","agent":"user","views":1969},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017071300","access":"all-access","agent":"user","views":1728},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017071400","access":"all-access","agent":"user","views":1701},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017071500","access":"all-access","agent":"user","views":1707},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017071600","access":"all-access","agent":"user","views":1926},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017071700","access":"all-access","agent":"user","views":1819},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017071800","access":"all-access","agent":"user","views":1746},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017071900","access":"all-access","agent":"user","views":1705},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017072000","access":"all-access","agent":"user","views":1606},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017072100","access":"all-access","agent":"user","views":1588},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017072200","access":"all-access","agent":"user","views":1650},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017072300","access":"all-access","agent":"user","views":1742},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017072400","access":"all-access","agent":"user","views":1686},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017072500","access":"all-access","agent":"user","views":1725},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017072600","access":"all-access","agent":"user","views":1772},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017072700","access":"all-access","agent":"user","views":1714},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017072800","access":"all-access","agent":"user","views":1675},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017072900","access":"all-access","agent":"user","views":1687},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017073000","access":"all-access","agent":"user","views":2108},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017073100","access":"all-access","agent":"user","views":1904},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017080100","access":"all-access","agent":"user","views":1777},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017080200","access":"all-access","agent":"user","views":1653},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017080300","access":"all-access","agent":"user","views":1616},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017080400","access":"all-access","agent":"user","views":1627},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017080500","access":"all-access","agent":"user","views":1713},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017080600","access":"all-access","agent":"user","views":2001},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017080700","access":"all-access","agent":"user","views":1797},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017080800","access":"all-access","agent":"user","views":1833},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017080900","access":"all-access","agent":"user","views":1691},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017081000","access":"all-access","agent":"user","views":1803},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017081100","access":"all-access","agent":"user","views":1740},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017081200","access":"all-access","agent":"user","views":1781},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017081300","access":"all-access","agent":"user","views":2083},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017081400","access":"all-access","agent":"user","views":1926},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017081500","access":"all-access","agent":"user","views":1743},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017081600","access":"all-access","agent":"user","views":1785},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017081700","access":"all-access","agent":"user","views":1894},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017081800","access":"all-access","agent":"user","views":1839},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017081900","access":"all-access","agent":"user","views":1902},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017082000","access":"all-access","agent":"user","views":1871},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017082100","access":"all-access","agent":"user","views":1595},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017082200","access":"all-access","agent":"user","views":1601},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017082300","access":"all-access","agent":"user","views":1659},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017082400","access":"all-access","agent":"user","views":1608},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017082500","access":"all-access","agent":"user","views":1670},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017082600","access":"all-access","agent":"user","views":1613},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017082700","access":"all-access","agent":"user","views":1628},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017082800","access":"all-access","agent":"user","views":1609},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017082900","access":"all-access","agent":"user","views":1451},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017083000","access":"all-access","agent":"user","views":1578},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017083100","access":"all-access","agent":"user","views":1571},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017090100","access":"all-access","agent":"user","views":1572},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017090200","access":"all-access","agent":"user","views":1611},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017090300","access":"all-access","agent":"user","views":1682},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017090400","access":"all-access","agent":"user","views":1750},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017090500","access":"all-access","agent":"user","views":1505},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017090600","access":"all-access","agent":"user","views":1611},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017090700","access":"all-access","agent":"user","views":1766},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017090800","access":"all-access","agent":"user","views":1815},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017090900","access":"all-access","agent":"user","views":1638},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017091000","access":"all-access","agent":"user","views":1713},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017091100","access":"all-access","agent":"user","views":1611},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017091200","access":"all-access","agent":"user","views":1576},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017091300","access":"all-access","agent":"user","views":1507},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017091400","access":"all-access","agent":"user","views":1767},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017091500","access":"all-access","agent":"user","views":1803},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017091600","access":"all-access","agent":"user","views":1804},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017091700","access":"all-access","agent":"user","views":1940},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017091800","access":"all-access","agent":"user","views":1739},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017091900","access":"all-access","agent":"user","views":1767},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017092000","access":"all-access","agent":"user","views":1917},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017092100","access":"all-access","agent":"user","views":1572},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017092200","access":"all-access","agent":"user","views":1611},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017092300","access":"all-access","agent":"user","views":1728},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017092400","access":"all-access","agent":"user","views":1705},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017092500","access":"all-access","agent":"user","views":1704},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017092600","access":"all-access","agent":"user","views":1656},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017092700","access":"all-access","agent":"user","views":1646},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017092800","access":"all-access","agent":"user","views":1504},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017092900","access":"all-access","agent":"user","views":1589},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017093000","access":"all-access","agent":"user","views":1520},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017100100","access":"all-access","agent":"user","views":1744},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017100200","access":"all-access","agent":"user","views":17796},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017100300","access":"all-access","agent":"user","views":31405},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017100400","access":"all-access","agent":"user","views":22579},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017100500","access":"all-access","agent":"user","views":16551},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017100600","access":"all-access","agent":"user","views":11531},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017100700","access":"all-access","agent":"user","views":6807},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017100800","access":"all-access","agent":"user","views":6042},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017100900","access":"all-access","agent":"user","views":6218},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017101000","access":"all-access","agent":"user","views":5571},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017101100","access":"all-access","agent":"user","views":3927},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017101200","access":"all-access","agent":"user","views":3343},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017101300","access":"all-access","agent":"user","views":2872},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017101400","access":"all-access","agent":"user","views":2764},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017101500","access":"all-access","agent":"user","views":2714},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017101600","access":"all-access","agent":"user","views":2484},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017101700","access":"all-access","agent":"user","views":2360},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017101800","access":"all-access","agent":"user","views":2242},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017101900","access":"all-access","agent":"user","views":2089},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017102000","access":"all-access","agent":"user","views":2075},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017102100","access":"all-access","agent":"user","views":2153},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017102200","access":"all-access","agent":"user","views":2895},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017102300","access":"all-access","agent":"user","views":2597},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017102400","access":"all-access","agent":"user","views":2332},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017102500","access":"all-access","agent":"user","views":2464},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017102600","access":"all-access","agent":"user","views":2414},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017102700","access":"all-access","agent":"user","views":1899},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017102800","access":"all-access","agent":"user","views":1970},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017102900","access":"all-access","agent":"user","views":2162},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017103000","access":"all-access","agent":"user","views":2023},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017103100","access":"all-access","agent":"user","views":1905},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017110100","access":"all-access","agent":"user","views":1962},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017110200","access":"all-access","agent":"user","views":1862},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017110300","access":"all-access","agent":"user","views":1822},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017110400","access":"all-access","agent":"user","views":1819},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017110500","access":"all-access","agent":"user","views":2815},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017110600","access":"all-access","agent":"user","views":29519},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017110700","access":"all-access","agent":"user","views":15706},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017110800","access":"all-access","agent":"user","views":8038},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017110900","access":"all-access","agent":"user","views":5631},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017111000","access":"all-access","agent":"user","views":4805},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017111100","access":"all-access","agent":"user","views":3864},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017111200","access":"all-access","agent":"user","views":3277},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017111300","access":"all-access","agent":"user","views":3385},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017111400","access":"all-access","agent":"user","views":3421},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017111500","access":"all-access","agent":"user","views":3292},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017111600","access":"all-access","agent":"user","views":2883},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017111700","access":"all-access","agent":"user","views":2357},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017111800","access":"all-access","agent":"user","views":2211},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017111900","access":"all-access","agent":"user","views":2140},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017112000","access":"all-access","agent":"user","views":2082},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017112100","access":"all-access","agent":"user","views":2023},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017112200","access":"all-access","agent":"user","views":1994},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017112300","access":"all-access","agent":"user","views":2178},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017112400","access":"all-access","agent":"user","views":2218},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017112500","access":"all-access","agent":"user","views":2067},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017112600","access":"all-access","agent":"user","views":2165},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017112700","access":"all-access","agent":"user","views":1974},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017112800","access":"all-access","agent":"user","views":1902},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017112900","access":"all-access","agent":"user","views":1657},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017113000","access":"all-access","agent":"user","views":1777},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017120100","access":"all-access","agent":"user","views":1698},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017120200","access":"all-access","agent":"user","views":1594},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017120300","access":"all-access","agent":"user","views":1653},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017120400","access":"all-access","agent":"user","views":1869},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017120500","access":"all-access","agent":"user","views":1841},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017120600","access":"all-access","agent":"user","views":1755},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017120700","access":"all-access","agent":"user","views":1724},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017120800","access":"all-access","agent":"user","views":1897},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017120900","access":"all-access","agent":"user","views":2275},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017121000","access":"all-access","agent":"user","views":2088},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017121100","access":"all-access","agent":"user","views":2090},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017121200","access":"all-access","agent":"user","views":1787},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017121300","access":"all-access","agent":"user","views":1672},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017121400","access":"all-access","agent":"user","views":1952},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017121500","access":"all-access","agent":"user","views":1936},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017121600","access":"all-access","agent":"user","views":1715},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017121700","access":"all-access","agent":"user","views":1957},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017121800","access":"all-access","agent":"user","views":1875},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017121900","access":"all-access","agent":"user","views":1588},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017122000","access":"all-access","agent":"user","views":1591},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017122100","access":"all-access","agent":"user","views":1818},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017122200","access":"all-access","agent":"user","views":1796},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017122300","access":"all-access","agent":"user","views":1758},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017122400","access":"all-access","agent":"user","views":1771},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017122500","access":"all-access","agent":"user","views":1881},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017122600","access":"all-access","agent":"user","views":1866},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017122700","access":"all-access","agent":"user","views":2074},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017122800","access":"all-access","agent":"user","views":2096},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017122900","access":"all-access","agent":"user","views":1987},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017123000","access":"all-access","agent":"user","views":2068},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2017123100","access":"all-access","agent":"user","views":2147},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018010100","access":"all-access","agent":"user","views":1869},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018010200","access":"all-access","agent":"user","views":1783},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018010300","access":"all-access","agent":"user","views":1833},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018010400","access":"all-access","agent":"user","views":1766},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018010500","access":"all-access","agent":"user","views":1719},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018010600","access":"all-access","agent":"user","views":1672},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018010700","access":"all-access","agent":"user","views":2235},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018010800","access":"all-access","agent":"user","views":1876},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018010900","access":"all-access","agent":"user","views":1674},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018011000","access":"all-access","agent":"user","views":1619},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018011100","access":"all-access","agent":"user","views":1707},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018011200","access":"all-access","agent":"user","views":1746},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018011300","access":"all-access","agent":"user","views":1873},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018011400","access":"all-access","agent":"user","views":1983},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018011500","access":"all-access","agent":"user","views":1884},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018011600","access":"all-access","agent":"user","views":1782},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018011700","access":"all-access","agent":"user","views":1753},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018011800","access":"all-access","agent":"user","views":1596},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018011900","access":"all-access","agent":"user","views":1815},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018012000","access":"all-access","agent":"user","views":1974},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018012100","access":"all-access","agent":"user","views":2030},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018012200","access":"all-access","agent":"user","views":1763},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018012300","access":"all-access","agent":"user","views":1718},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018012400","access":"all-access","agent":"user","views":1840},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018012500","access":"all-access","agent":"user","views":1676},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018012600","access":"all-access","agent":"user","views":1683},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018012700","access":"all-access","agent":"user","views":1826},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018012800","access":"all-access","agent":"user","views":2142},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018012900","access":"all-access","agent":"user","views":1998},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018013000","access":"all-access","agent":"user","views":1740},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018013100","access":"all-access","agent":"user","views":1886},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018020100","access":"all-access","agent":"user","views":1721},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018020200","access":"all-access","agent":"user","views":1739},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018020300","access":"all-access","agent":"user","views":1829},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018020400","access":"all-access","agent":"user","views":1760},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018020500","access":"all-access","agent":"user","views":1678},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018020600","access":"all-access","agent":"user","views":1794},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018020700","access":"all-access","agent":"user","views":1770},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018020800","access":"all-access","agent":"user","views":1778},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018020900","access":"all-access","agent":"user","views":1776},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018021000","access":"all-access","agent":"user","views":1799},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018021100","access":"all-access","agent":"user","views":2026},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018021200","access":"all-access","agent":"user","views":2039},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018021300","access":"all-access","agent":"user","views":2042},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018021400","access":"all-access","agent":"user","views":9956},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018021500","access":"all-access","agent":"user","views":202735},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018021600","access":"all-access","agent":"user","views":132961},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018021700","access":"all-access","agent":"user","views":67998},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018021800","access":"all-access","agent":"user","views":58199},{"project":"en.wikipedia","article":"Colt_AR-15","granularity":"daily","timestamp":"2018021900","access":"all-access","agent":"user","views":55790}]
+[{
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016070100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 59
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016070200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 45
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016070300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 55
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016070400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 47
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016070500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 49
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016070600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 38
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016070700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 31
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016070800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 68
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016070900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 64
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016071000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 58
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016071100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 52
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016071200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 37
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016071300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 47
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016071400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 37
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016071500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 47
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016071600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 35
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016071700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 44
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016071800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 43
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016071900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 41
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016072000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 45
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016072100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 36
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016072200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 39
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016072300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 34
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016072400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 52
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016072500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 42
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016072600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 45
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016072700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 39
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016072800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 35
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016072900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 37
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016073000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 26
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016073100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 27
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016080100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 43
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016080200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 44
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016080300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 30
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016080400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 31
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016080500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 26
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016080600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 30
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016080700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 32
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016080800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 25
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016080900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 29
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016081000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 27
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016081100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 24
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016081200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 31
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016081300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 28
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016081400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 22
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016081500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 31
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016081600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 31
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016081700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 30
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016081800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 25
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016081900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 231
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016082000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1182
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016082100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1150
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016082200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1149
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016082300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1144
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016082400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1043
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016082500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1069
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016082600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 892
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016082700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 903
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016082800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1057
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016082900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 886
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016083000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 820
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016083100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 866
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016090100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 917
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016090200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 977
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016090300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 955
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016090400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1029
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016090500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1583
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016090600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1102
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016090700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1018
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016090800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1148
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016090900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1012
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016091000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1018
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016091100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1061
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016091200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 954
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016091300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 924
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016091400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 953
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016091500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 865
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016091600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 941
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016091700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 972
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016091800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1172
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016091900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1039
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016092000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1008
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016092100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1020
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016092200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1056
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016092300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 991
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016092400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1187
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016092500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1254
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016092600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1147
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016092700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1074
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016092800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1007
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016092900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1099
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016093000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1033
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016100100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 964
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016100200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 979
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016100300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1031
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016100400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1037
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016100500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 918
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016100600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1165
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016100700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1031
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016100800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1033
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016100900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1053
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016101000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 959
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016101100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1027
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016101200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1187
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016101300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1306
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016101400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1175
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016101500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1287
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016101600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1241
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016101700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1292
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016101800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1263
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016101900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1194
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016102000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1237
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016102100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1154
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016102200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1072
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016102300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1203
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016102400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1337
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016102500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1226
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016102600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1121
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016102700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1168
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016102800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1085
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016102900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1033
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016103000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1072
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016103100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1109
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016110100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1134
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016110200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1186
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016110300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1119
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016110400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1111
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016110500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1325
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016110600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1320
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016110700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1277
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016110800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1325
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016110900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1150
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016111000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1182
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016111100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1226
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016111200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1303
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016111300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1304
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016111400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1250
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016111500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1196
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016111600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1286
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016111700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1197
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016111800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1181
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016111900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1223
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016112000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1232
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016112100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1401
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016112200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1308
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016112300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1218
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016112400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1200
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016112500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1304
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016112600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1330
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016112700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1279
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016112800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1397
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016112900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1397
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016113000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1166
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016120100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1162
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016120200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1036
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016120300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1027
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016120400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1182
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016120500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1207
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016120600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1313
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016120700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1084
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016120800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1088
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016120900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1113
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016121000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1173
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016121100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1214
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016121200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1497
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016121300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1376
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016121400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1273
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016121500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1076
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016121600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1061
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016121700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1042
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016121800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1058
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016121900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1191
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016122000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1173
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016122100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1169
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016122200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1257
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016122300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1104
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016122400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1011
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016122500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1153
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016122600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1091
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016122700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1218
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016122800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1116
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016122900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1140
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016123000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1180
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2016123100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 996
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017010100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1072
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017010200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1268
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017010300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1210
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017010400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1336
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017010500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1177
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017010600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1182
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017010700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1180
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017010800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1334
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017010900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1163
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017011000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1200
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017011100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1501
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017011200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1101
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017011300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1090
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017011400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1109
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017011500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1186
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017011600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1209
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017011700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1210
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017011800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1183
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017011900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1128
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017012000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1176
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017012100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1199
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017012200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1228
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017012300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1115
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017012400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1173
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017012500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1031
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017012600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1133
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017012700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1056
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017012800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1167
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017012900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1191
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017013000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1251
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017013100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1031
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017020100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1052
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017020200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1114
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017020300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1243
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017020400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1121
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017020500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1213
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017020600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1047
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017020700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1187
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017020800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1122
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017020900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1163
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017021000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1186
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017021100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1297
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017021200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1468
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017021300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1351
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017021400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1178
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017021500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1169
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017021600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1306
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017021700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1293
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017021800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1193
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017021900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1369
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017022000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1257
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017022100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1231
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017022200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1725
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017022300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1648
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017022400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1336
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017022500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1310
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017022600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1468
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017022700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1243
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017022800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1237
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017030100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1439
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017030200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1108
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017030300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 998
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017030400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1124
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017030500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1276
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017030600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1262
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017030700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1095
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017030800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 979
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017030900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 992
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017031000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1024
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017031100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 960
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017031200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1137
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017031300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1085
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017031400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 973
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017031500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1010
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017031600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 999
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017031700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 979
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017031800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 961
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017031900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1125
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017032000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1083
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017032100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1016
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017032200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1044
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017032300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1072
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017032400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1029
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017032500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1111
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017032600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1213
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017032700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1134
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017032800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 3804
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017032900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2961
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017033000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2555
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017033100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1839
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017040100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1563
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017040200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1705
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017040300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1516
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017040400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1575
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017040500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1779
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017040600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1369
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017040700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1140
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017040800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1046
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017040900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1153
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017041000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1159
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017041100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1050
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017041200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1099
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017041300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1039
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017041400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 989
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017041500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1028
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017041600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1073
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017041700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1098
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017041800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1046
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017041900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1152
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017042000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1095
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017042100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1130
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017042200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1208
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017042300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1020
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017042400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 957
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017042500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 908
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017042600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 943
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017042700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 857
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017042800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 933
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017042900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 934
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017043000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 991
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017050100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 934
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017050200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 864
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017050300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 844
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017050400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 933
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017050500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 656
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017050600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 682
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017050700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 712
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017050800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 840
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017050900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 856
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017051000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 794
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017051100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 761
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017051200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 720
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017051300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 756
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017051400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 787
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017051500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 816
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017051600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 719
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017051700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 711
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017051800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 723
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017051900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1082
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017052000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 858
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017052100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 935
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017052200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 889
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017052300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 927
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017052400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 906
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017052500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 905
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017052600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 820
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017052700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 876
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017052800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 900
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017052900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1142
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017053000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1121
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017053100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1535
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017060100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1738
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017060200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1612
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017060300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1664
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017060400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1990
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017060500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1913
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017060600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1706
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017060700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1848
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017060800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1835
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017060900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1690
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017061000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1592
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017061100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1770
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017061200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1718
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017061300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1655
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017061400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 4050
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017061500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 3100
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017061600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2635
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017061700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1898
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017061800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2050
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017061900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2032
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017062000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1804
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017062100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1754
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017062200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1915
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017062300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1883
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017062400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1899
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017062500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1934
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017062600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1839
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017062700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1737
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017062800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1774
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017062900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1761
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017063000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2561
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017070100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 4294
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017070200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2666
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017070300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2236
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017070400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2125
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017070500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2034
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017070600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2016
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017070700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1981
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017070800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1847
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017070900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2025
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017071000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2054
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017071100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2172
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017071200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1969
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017071300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1728
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017071400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1701
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017071500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1707
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017071600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1926
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017071700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1819
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017071800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1746
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017071900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1705
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017072000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1606
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017072100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1588
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017072200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1650
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017072300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1742
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017072400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1686
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017072500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1725
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017072600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1772
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017072700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1714
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017072800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1675
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017072900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1687
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017073000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2108
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017073100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1904
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017080100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1777
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017080200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1653
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017080300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1616
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017080400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1627
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017080500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1713
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017080600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2001
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017080700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1797
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017080800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1833
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017080900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1691
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017081000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1803
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017081100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1740
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017081200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1781
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017081300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2083
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017081400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1926
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017081500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1743
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017081600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1785
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017081700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1894
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017081800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1839
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017081900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1902
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017082000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1871
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017082100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1595
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017082200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1601
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017082300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1659
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017082400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1608
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017082500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1670
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017082600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1613
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017082700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1628
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017082800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1609
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017082900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1451
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017083000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1578
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017083100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1571
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017090100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1572
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017090200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1611
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017090300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1682
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017090400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1750
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017090500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1505
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017090600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1611
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017090700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1766
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017090800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1815
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017090900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1638
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017091000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1713
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017091100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1611
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017091200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1576
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017091300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1507
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017091400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1767
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017091500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1803
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017091600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1804
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017091700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1940
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017091800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1739
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017091900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1767
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017092000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1917
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017092100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1572
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017092200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1611
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017092300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1728
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017092400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1705
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017092500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1704
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017092600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1656
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017092700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1646
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017092800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1504
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017092900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1589
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017093000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1520
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017100100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1744
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017100200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 17796
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017100300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 31405
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017100400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 22579
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017100500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 16551
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017100600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 11531
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017100700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 6807
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017100800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 6042
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017100900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 6218
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017101000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 5571
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017101100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 3927
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017101200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 3343
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017101300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2872
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017101400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2764
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017101500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2714
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017101600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2484
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017101700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2360
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017101800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2242
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017101900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2089
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017102000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2075
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017102100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2153
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017102200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2895
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017102300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2597
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017102400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2332
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017102500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2464
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017102600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2414
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017102700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1899
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017102800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1970
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017102900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2162
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017103000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2023
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017103100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1905
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017110100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1962
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017110200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1862
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017110300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1822
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017110400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1819
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017110500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2815
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017110600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 29519
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017110700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 15706
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017110800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 8038
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017110900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 5631
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017111000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 4805
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017111100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 3864
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017111200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 3277
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017111300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 3385
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017111400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 3421
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017111500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 3292
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017111600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2883
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017111700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2357
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017111800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2211
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017111900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2140
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017112000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2082
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017112100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2023
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017112200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1994
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017112300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2178
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017112400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2218
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017112500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2067
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017112600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2165
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017112700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1974
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017112800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1902
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017112900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1657
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017113000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1777
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017120100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1698
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017120200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1594
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017120300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1653
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017120400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1869
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017120500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1841
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017120600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1755
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017120700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1724
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017120800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1897
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017120900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2275
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017121000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2088
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017121100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2090
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017121200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1787
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017121300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1672
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017121400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1952
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017121500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1936
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017121600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1715
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017121700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1957
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017121800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1875
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017121900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1588
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017122000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1591
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017122100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1818
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017122200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1796
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017122300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1758
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017122400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1771
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017122500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1881
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017122600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1866
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017122700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2074
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017122800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2096
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017122900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1987
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017123000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2068
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2017123100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2147
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018010100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1869
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018010200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1783
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018010300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1833
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018010400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1766
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018010500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1719
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018010600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1672
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018010700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2235
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018010800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1876
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018010900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1674
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018011000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1619
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018011100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1707
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018011200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1746
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018011300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1873
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018011400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1983
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018011500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1884
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018011600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1782
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018011700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1753
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018011800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1596
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018011900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1815
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018012000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1974
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018012100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2030
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018012200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1763
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018012300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1718
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018012400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1840
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018012500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1676
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018012600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1683
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018012700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1826
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018012800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2142
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018012900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1998
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018013000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1740
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018013100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1886
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018020100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1721
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018020200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1739
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018020300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1829
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018020400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1760
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018020500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1678
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018020600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1794
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018020700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1770
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018020800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1778
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018020900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1776
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018021000",
+	"access": "all-access",
+	"agent": "user",
+	"views": 1799
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018021100",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2026
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018021200",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2039
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018021300",
+	"access": "all-access",
+	"agent": "user",
+	"views": 2042
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018021400",
+	"access": "all-access",
+	"agent": "user",
+	"views": 9956
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018021500",
+	"access": "all-access",
+	"agent": "user",
+	"views": 202735
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018021600",
+	"access": "all-access",
+	"agent": "user",
+	"views": 132961
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018021700",
+	"access": "all-access",
+	"agent": "user",
+	"views": 67998
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018021800",
+	"access": "all-access",
+	"agent": "user",
+	"views": 58199
+}, {
+	"project": "en.wikipedia",
+	"article": "Colt_AR-15",
+	"granularity": "daily",
+	"timestamp": "2018021900",
+	"access": "all-access",
+	"agent": "user",
+	"views": 55790
+}]
